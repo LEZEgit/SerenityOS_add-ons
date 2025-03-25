@@ -50,7 +50,7 @@ Future goals include:
 
 ## Sources
 
-1.  SerenityOS source code: Available on GitHub
-2.  SerenityOS Wiki: \[SerenityOS Wiki]
-3.  Andreas Kling's videos on SerenityOS development: \[Andreas Kling's YouTube tutorials]
+1.  SerenityOS source code: https://github.com/SerenityOS/serenity
+2.  SerenityOS Wiki: https://en.wikipedia.org/wiki/SerenityOS
+3.  Andreas Kling's videos on SerenityOS development: https://youtube.com/andreaskling
 
